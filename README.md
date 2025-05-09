@@ -1,8 +1,8 @@
-# 🧠 Smart Resume Analyzer & Job Matcher
+# Smart Resume Analyzer & Job Matcher
 
 A Python + Streamlit app to analyze resumes using NLP and match them against job descriptions with a match score and skill suggestions.
 
-## 🚀 Features
+## Features
 
 - Resume (PDF) parser using `pdfplumber`
 - Skill extraction using `spaCy`
@@ -10,7 +10,7 @@ A Python + Streamlit app to analyze resumes using NLP and match them against job
 - Missing skill suggestions
 - Easy-to-use Streamlit UI
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Streamlit
@@ -18,9 +18,8 @@ A Python + Streamlit app to analyze resumes using NLP and match them against job
 - pdfplumber
 - scikit-learn
 
-## 📦 How to Run
+## How to Run
 
-```bash
 git clone https://github.com/YOUR_USERNAME/smart-resume-analyzer.git
 cd smart-resume-analyzer
 python3 -m venv venv
