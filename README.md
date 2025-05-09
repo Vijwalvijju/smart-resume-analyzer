@@ -18,11 +18,4 @@ A Python + Streamlit app to analyze resumes using NLP and match them against job
 - pdfplumber
 - scikit-learn
 
-## How to Run
 
-git clone https://github.com/YOUR_USERNAME/smart-resume-analyzer.git
-cd smart-resume-analyzer
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-streamlit run app.py
